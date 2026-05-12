@@ -5,6 +5,8 @@
 > **Turmas:** 1CCPJ · 1CCPK  
 > **Duração:** 1 hora · Entrega via Teams · Notebook Python `.ipynb`
 
+[Baixar template do notebook](./Checkpoint02_MLAM_Template.ipynb)
+
 ---
 
 ## Contexto
