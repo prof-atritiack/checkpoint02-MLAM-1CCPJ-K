@@ -80,6 +80,8 @@ As tabelas devem ser construídas com código Python. O uso isolado de `.value_c
 
 ### 5 · Análise interpretativa
 
+Apresente os histogramas de duas variáveis.
+
 Para cada tabela gerada, o grupo deve escrever **ao menos dois parágrafos** interpretando o que os dados mostram. Não se trata de descrever a tabela — trata-se de extrair significado dela no contexto real do dataset.
 
 ---
